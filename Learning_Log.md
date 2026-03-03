@@ -14,4 +14,4 @@ During the initial phase of this challenge, the focus was on revising core progr
 8. [Convert Binary to Decimal & Vice-Versa](Functions/conversion.java)
 
 ### Day-2 (Starting from March 1, 2026)
-Solved 3 LeetCode problems today using brute force. Focused on strengthening logic building and problem understanding. [Number of Good Pairs](Leetcode\Sol_1512.java) [Count odd Numbers in an Interval Range](Leetcode\Sol_1523.java) [Number of Common Factors](Leetcode\Sol_2427.java)
+Solved 3 LeetCode problems today using brute force. Focused on strengthening logic building and problem understanding. [Number of Good Pairs](Leetcode/Sol_1512.java) [Count odd Numbers in an Interval Range](Leetcode/Sol_1523.java) [Number of Common Factors](Leetcode/Sol_2427.java)
