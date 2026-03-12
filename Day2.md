@@ -1,4 +1,4 @@
-### 📅 Date - 11th March 2025
+### 📅 Date - 11th March 2026
 
 #### 1. What are arrays ?
 An **array** is a **linear data structure** used to store multiple values of the **same type** in a single variable.
