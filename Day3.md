@@ -1,7 +1,7 @@
 ### 📅 Date - 12th March 2026
 
 #### Build-up Logical Thinking
-1. Rectangular Star Pattern - [RectangularStar.java](Patterns\RectangularStar.java)
+1. Rectangular Star Pattern - [RectangularStar.java](Patterns/RectangularStar.java)
 ``` java
 *****
 *****
