@@ -1,6 +1,6 @@
 ### 📅 Date - 13th March 2026
 
-#### Build-up Logical Thinking [(Patterns2_6)](Patterns\Main.java)
+#### Build-up Logical Thinking [(Patterns2_6)](Patterns/Main.java)
 
 2. Right-Angled Triangle Pattern
 3. Right-Angled Number Pyramid
